@@ -3,7 +3,7 @@ using ImGuiNET;
 using System;
 using System.Numerics;
 
-namespace BetterTargetingSystem.Windows;
+namespace BetterTargetingSystemPvP.Windows;
 
 public class HelpWindow : Window, IDisposable
 {

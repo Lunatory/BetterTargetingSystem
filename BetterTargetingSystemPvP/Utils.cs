@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using Dalamud.Utility.Signatures;
 using FFXIVClientStructs.FFXIV.Client.Game;
 
-namespace BetterTargetingSystem;
+namespace BetterTargetingSystemPvP;
 
 public unsafe class Utils
 {

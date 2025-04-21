@@ -1,10 +1,10 @@
 using Dalamud.Configuration;
 using Dalamud.Game.ClientState.Keys;
 using Dalamud.Plugin;
-using BetterTargetingSystem.Keybinds;
 using System;
+using BetterTargetingSystemPvP.Keybinds;
 
-namespace BetterTargetingSystem;
+namespace BetterTargetingSystemPvP;
 
 [Serializable]
 public class Configuration : IPluginConfiguration

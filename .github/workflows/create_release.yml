@@ -12,8 +12,8 @@ jobs:
   release:
     uses: Lunatory/DalamudRepo/.github/workflows/reusable_create_release.yml@master
     with:
-      internal_name: BetterTargetingSystem
-      solution_name: BetterTargetingSystem
+      internal_name: BetterTargetingSystemPvP
+      solution_name: BetterTargetingSystemPvP
       build_configuration: Release
       personal_plugin_repo: Lunatory/DalamudRepo
       personal_plugin_repo_branch: master

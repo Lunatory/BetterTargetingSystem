@@ -3,10 +3,9 @@ using Dalamud.Interface.Windowing;
 using ImGuiNET;
 using System;
 using System.Numerics;
+using BetterTargetingSystemPvP.Keybinds;
 
-using BetterTargetingSystem.Keybinds;
-
-namespace BetterTargetingSystem.Windows
+namespace BetterTargetingSystemPvP.Windows
 {
     public class ConfigWindow : Window, IDisposable
     {
